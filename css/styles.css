@@ -1,0 +1,28 @@
+h1 {
+  color: #56ffb0;
+}
+
+body {
+  background-color: #56a4ff;
+}
+
+.list-item{
+  font-family: monospace;
+}
+
+#css-item{
+  color: #56ffb0;
+}
+
+#goal-list{
+  border-style: dashed;
+  border-color: #56ffb0;
+  width: 30%;
+}
+
+#picture {
+  width: 50%;
+  float: right;
+  border: solid;
+  border-color: #56a4ff;
+}
